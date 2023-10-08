@@ -1,6 +1,5 @@
 "use strict";
 
-
 const BUNDLE_CONFIGURE = (
 	{
 		"entry": (
