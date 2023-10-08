@@ -38,6 +38,10 @@ const BUNDLE_CONFIGURE = (
 						),
 					}
 				),
+
+				"globalObject": (
+					"this"
+				),
 			}
 		),
 
