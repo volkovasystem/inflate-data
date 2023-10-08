@@ -1,6 +1,6 @@
 "use strict";
 
-/*;
+/*;!
 	@license:module:
 		MIT License
 
