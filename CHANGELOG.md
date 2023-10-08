@@ -6,7 +6,7 @@
 - undefined
 
 ###	ADDED
-- undefined
+- Finalized implementation for inflate data utility procedure.
 
 ###	MODIFIED
 - undefined
