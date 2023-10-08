@@ -1,0 +1,38 @@
+{
+	"name": "@volkovasystem/inflate-data",
+	"alias": "inflate-data",
+	"version": "0.0.0",
+	"description": "Inflate flattened data.",
+	"main": "inflate-data.js",
+	"scripts": {
+		"check": "source ./setting/default-setting.sh && ./tool/check-module.sh",
+		"reset": "source ./setting/default-setting.sh && ./tool/reset-module.sh",
+		"clean": "source ./setting/default-setting.sh && ./tool/clean-module.sh",
+		"bundle": "source ./setting/default-setting.sh && ./tool/bundle-module.sh",
+		"compress": "source ./setting/default-setting.sh && ./tool/compress-module.sh",
+		"resolve": "source ./setting/default-setting.sh && ./tool/resolve-module.sh",
+		"build": "source ./setting/default-setting.sh && ./tool/build-module.sh",
+		"test": "source ./setting/default-setting.sh && ./tool/test-module.sh",
+		"stage": "source ./setting/default-setting.sh && ./tool/stage-module.sh",
+		"prepublishOnly": "npm run stage",
+		"postpublish": "npm run clean && npm run check"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/volkovasystem/inflate-data.git"
+	},
+	"keywords": [
+		"inflate-data",
+		"inflate",
+		"data"
+	],
+	"author": "Richeve S. Bebedor <richeve.bebedor@gmail.com>",
+	"contributors": [
+		"Richeve S. Bebedor <richeve.bebedor@gmail.com>"
+	],
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/volkovasystem/inflate-data/issues"
+	},
+	"homepage": "https://github.com/volkovasystem/inflate-data#readme"
+}
