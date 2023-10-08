@@ -1,7 +1,7 @@
 {
 	"name": "@volkovasystem/inflate-data",
 	"alias": "inflate-data",
-	"version": "0.0.0",
+	"version": "0.0.1",
 	"description": "Inflate flattened data.",
 	"main": "inflate-data.js",
 	"scripts": {
