@@ -1,5 +1,26 @@
 #	CHANGELOG
 
+##	2023-10-09/0.0.1
+
+###	UNRELEASED
+- undefined
+
+###	ADDED
+- undefined
+
+###	MODIFIED
+- Fixed issue on module license comment.
+- Removed unwanted code.
+
+###	DEPRECATED
+- undefined
+
+###	REMOVED
+- undefined
+
+###	SECURITY
+- undefined
+
 ##	2023-10-09/0.0.0
 
 ###	UNRELEASED
