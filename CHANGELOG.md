@@ -10,6 +10,7 @@
 
 ###	MODIFIED
 - Fixed issue on module license comment.
+- Fixed issue on global variable.
 - Removed unwanted code.
 
 ###	DEPRECATED
